@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">Droid Cafe</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_dessert_recipe_fragment">Hello Dessert Recipe Fragment</string>
+    <string name="hello_pastries_recipe_fragment">Hello Pastries Recipe Fragment</string>
+    <string name="hello_stores_fragment">Hello Stores Fragment</string>
+    <string name="tab_label_1">Desserts</string>
+    <string name="tab_label_2">Pastries</string>
+    <string name="tab_label_3">Stores</string>
+    <string name="dessert_recipes">Dessert Recipes</string>
+    <string name="browse_recipes">Browse Recipes</string>
+    <string name="recipe_title">Recipe Title</string>
+    <string name="prep_cook_time_2hrs"><![CDATA[Prep & Cook Time: 2hrs]]></string>
+    <string name="recipe_short_description">Recipe short description</string>
+    <string name="how_to_prepare_donuts">How to prepare Donuts</string>
+    <string name="how_to_prepare_an_ice_cream_cake">How to prepare an ice cream cake</string>
+    <string name="how_to_prepare_a_strawberry_cake">How to prepare a strawberry cake</string>
+    <string name="how_to_prepare_sponge_cakes">How to prepare sponge cakes</string>
+    <string name="how_to_prepare_coffee_cake">How to prepare coffee cake</string>
+    <string name="how_to_prepare_chocolate_cake">How to prepare chocolate cake</string>
+    <string name="how_to_prepare_a_swiss_roll">How to prepare a swiss roll</string>
+    <string name="how_to_make_a_spring_roll">How to make a spring roll</string>
+    <string name="pastries">Pastries</string>
+    <string name="browse_pastries">Browse Pastries</string>
+    <string name="pastry_recipes">Pastry Recipes</string>
+    <string name="like">Like</string>
+    <string name="comment">Comment</string>
+    <string name="share">Share</string>
+    <string name="store_title">Store Title</string>
+    <string name="open_daily_from_7_00a_m">Open Daily from 7:00a.m</string>
+    <string name="store_short_description">Store short description</string>
+    <string name="droid_caffe_stores">Droid Caffe Stores</string>
+    <string name="rate_our_stores">Rate our stores</string>
+    <string name="message">Message</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="dessert">Dessert</string>
+    <string name="desserts">Desserts</string>
+    <string name="nav_pastries">Pastries</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="stores">Stores</string>
+    <string name="share_app">Share App</string>
+    <string name="about_us">About Us</string>
+
+    <array name="desserts_images">
+        <item>@drawable/ice_cake</item>
+        <item>@drawable/strawberry_cake</item>
+        <item>@drawable/sponge_cake</item>
+        <item>@drawable/coffee_cake</item>
+        <item>@drawable/donut</item>
+        <item>@drawable/chocolate_cake</item>
+        <item>@drawable/swiss_roll</item>
+        <item>@drawable/spring_roll</item>
+    </array>
+
+    <string-array name="dessert_title">
+        <item>Ice cream Cake</item>
+        <item>Strawberry Cake</item>
+        <item>Sponge Cake</item>
+        <item>Coffee Cake</item>
+        <item>Donuts</item>
+        <item>Chocolate Cake</item>
+        <item>Swiss Roll</item>
+        <item>Spring roll</item>
+    </string-array>
+
+    <string-array name="dessert_description">
+        <item>Ice cream cake is made with vanilla, mint, oreo or chocolate ice cream</item>
+        <item>Strawberry cake is topped with fresh ripe strawberries</item>
+        <item>Sponge cake is served with cheddar cheese</item>
+        <item>Coffee cake tastes better than coffee</item>
+        <item>Donuts are glazed and sprinkled with candy</item>
+        <item>Chocolate cake made with cadbury chocolate</item>
+        <item>Swiss roll served hot with a complementary drink</item>
+        <item>Spring roll are spread with nutella</item>
+    </string-array>
+
+    <array name="store_images">
+        <item>@drawable/garden_city</item>
+        <item>@drawable/two_rivers</item>
+        <item>@drawable/hotel</item>
+        <item>@drawable/sarit</item>
+        <item>@drawable/junction</item>
+        <item>@drawable/hub</item>
+    </array>
+
+    <string-array name="store_title">
+        <item>Garden City</item>
+        <item>Two Rivers</item>
+        <item>Westgate</item>
+        <item>Sarit</item>
+        <item>Junction Mall</item>
+        <item>The Hub</item>
+    </string-array>
+
+    <string-array name="store_description">
+        <item>Located at the prestigious Garden City mall, enjoy our assorted desserts and famous signature milkshakes as you shop around. Read more…</item>
+        <item>Want to feel like royalty? Enter our store located in Two Rivers. Get service like no other. The british experience mixed with our own. Read more…</item>
+        <item>At the heart of House, come enjoy milkshakes that are to die for served with desserts of your liking. Dare to taste your wildest dreams.Ream more…</item>
+        <item>Elegance at its best at our Sarit branch. Enjoy pastries with a view of the city. See the night come alive. Read more…</item>
+        <item>Located at the roof top of Junction Mall, enjoy the fine dining with our cuisines. An amazing view of the vicinity while taking your taste buds through a journey of discovery. Read more…</item>
+        <item>Conveniently located at the centre of The Hub, enjoy an array of flavours of desserts and pastries. Read more… </item>
+    </string-array>
+</resources>
